@@ -4,6 +4,6 @@ If you ever needed to develop implementation of deeplinks and url schemes in tvO
 
 ### How to use
 
-Just open `ViewController.swift`, change the `<put-your-url-here>` to run.
+Just open `ViewController.swift`, change the `<put-your-url-here>` and run the app.
 
 
