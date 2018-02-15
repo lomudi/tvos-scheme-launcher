@@ -20,6 +20,7 @@
 		BBFF92802033200700BD1C10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BBFF92822033200700BD1C10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BBFF92842033200700BD1C10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBFF928A20356C1300BD1C10 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				BBFF927F2033200700BD1C10 /* Main.storyboard */,
 				BBFF92822033200700BD1C10 /* Assets.xcassets */,
 				BBFF92842033200700BD1C10 /* Info.plist */,
+				BBFF928A20356C1300BD1C10 /* README.md */,
 			);
 			path = "scheme launcher";
 			sourceTree = "<group>";

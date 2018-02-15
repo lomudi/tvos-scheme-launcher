@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let url: String = "entertainment://play?voditemid=6291567"
+    let url: String = "<put-your-url-here>"
     
     @IBOutlet weak var button: UIButton!
     
